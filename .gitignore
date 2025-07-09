@@ -3,7 +3,6 @@ tsconfig.*
 lib/**/*.js
 lib/**/*.d.ts
 .jsii
-dist
 docs
 __pycache__
 .venv
